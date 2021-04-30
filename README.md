@@ -14,4 +14,4 @@ Blocks the following commands:
 Want to contribute code enhancements?  
 Create a pull request using this GitHub repository: https://github.com/Mystik-Spiral/l4d_block_commands
 
-Plugin discussion: https://forums.alliedmods.net/showthread.php?t=XXXXX
+Plugin discussion: https://forums.alliedmods.net/showthread.php?t=332223

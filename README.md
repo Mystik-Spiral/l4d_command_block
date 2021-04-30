@@ -12,6 +12,6 @@ Blocks the following commands:
   - I set director_afk_timeout to 20 seconds, the default is 45.
 
 Want to contribute code enhancements?  
-Create a pull request using this GitHub repository: https://github.com/Mystik-Spiral/l4d_block_commands
+Create a pull request using this GitHub repository: https://github.com/Mystik-Spiral/l4d_command_block
 
 Plugin discussion: https://forums.alliedmods.net/showthread.php?t=332223

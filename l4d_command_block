@@ -17,6 +17,8 @@ public Plugin myinfo =
 
 public void OnConfigsExecuted()
 {
+	CreateConVar("command_block_version", PLUGIN_VERSION, "Command Block version", FCVAR_NOTIFY|FCVAR_DONTRECORD);
+	
 	AddCommandListener(CommandBlock, "pause");
 	AddCommandListener(CommandBlock, "setpause");
 	AddCommandListener(CommandBlock, "unpause");

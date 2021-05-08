@@ -1,2 +1,6 @@
 30-Apr-2021 v1.0
-- Initial version
+- Initial version.
+
+07-May-2021 v1.1
+- Instead of hardcoded commands, now blocks whatever commands are specified in the "cb_list" ConVar (in the l4d_command_block.cfg file).
+   - The list must be comma separated with no spaces.

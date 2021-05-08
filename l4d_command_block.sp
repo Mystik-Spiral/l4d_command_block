@@ -12,7 +12,7 @@ By default, the blocked commands are:
     pause/setpause/unpause: Could be spammed to crash connected clients.
     jointeam: Could be used to spawn additional bots and other exploits.
     go_away_from_keyboard: Blocks many different idle exploits, most notably redirecting witch on startle.
-        It is suggested to lower the parameter "director_afk_timeout" since players can no longer manually go idle.
+        It is suggested to lower the parameter "director_afk_timeout" since players can no longer manually go idle (Take A Break).
         In the server.cfg file, set "sm_cvar director_afk_timeout 20", the default is 45.
 
 The list of commands to block must be comma separated with no spaces.
